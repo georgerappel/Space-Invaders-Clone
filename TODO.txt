@@ -1,0 +1,8 @@
+======== TODO ======== 
+
+- loja de personalização do tanque
+- animação dos aliens (braços p cima e p baixo).
+
+======== OBSERVAÇÕES ========
+
+640x520
