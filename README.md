@@ -7,6 +7,6 @@ University project. UFRJ, Brazil. 2015-1.
 - Clone this rep.
 - Inside the folder, run
  
-创g++ *.c -o space -lallegro -lallegro_primitives -lallegro_image -lallegro_audio -lallegro_acodec -lallegro_font -lallegro_ttf创
+`g++ *.c -o space -lallegro -lallegro_primitives -lallegro_image -lallegro_audio -lallegro_acodec -lallegro_font -lallegro_ttf`
 
-创./space创
+`./space`
